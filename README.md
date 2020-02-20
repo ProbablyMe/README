@@ -2,6 +2,6 @@
 Information about me and this repository
 
 
-Hello! My name is cers0!
+Hello!
 Welcome to my projects! 
 Projects built under Stryke! Softwares begin with SS_.
